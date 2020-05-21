@@ -1,2 +1,2 @@
 # TTGO TS V1.2
-TTGO TS V1.2 boatd for KBIDE
+TTGO TS V1.2 board for KBIDE
